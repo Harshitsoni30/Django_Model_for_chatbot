@@ -65,7 +65,7 @@ python manage.py migrate
 python manage.py createsuperuser
 ```
 
-### 6. Run the application:
+### 7. Run the application:
 Start the application using the following command:
 
 ```bash
